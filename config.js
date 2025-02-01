@@ -1,3 +1,5 @@
+
+
 module.exports = {
   TOKEN: "",
   language: "en",
@@ -12,7 +14,6 @@ module.exports = {
   embedTimeout: 5, 
   errorLog: "", 
   nodes: [
-     ```fix
     {
       name: "Koi Node V4",
       password: "prplmoe.me",
@@ -25,13 +26,6 @@ module.exports = {
       password: "NAIGLAVA-dash.techbyte.host",
       host: "lavahatry4.techbyte.host",
       port: 3000,
-      secure: false
-    },
-    { 
-      name: "saher",
-      password: "saher.inzeworld.com",
-      host: "lava.inzeworld.com",
-      port: 3128,
       secure: false
     },
      {
