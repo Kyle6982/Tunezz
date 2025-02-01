@@ -1,4 +1,10 @@
-
+{
+  "identifier": "Public Lavalink v4",
+  "password": "https://dsc.gg/ajidevserver",
+  "host": "lava-v4.ajieblogs.eu.org",
+  "port": 443,
+  "secure": true
+}
 
 module.exports = {
   TOKEN: "",
