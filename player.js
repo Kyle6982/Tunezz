@@ -1,10 +1,3 @@
-{
-  "name": "Public Lavalink v4",
-  "password": "https://dsc.gg/ajidevserver",
-  "host": "lava-v4.ajieblogs.eu.org",
-  "port": 443,
-  "secure": true
-}
 const { Riffy } = require("riffy");
 const { EmbedBuilder, ActionRowBuilder, ButtonBuilder, ButtonStyle, AttachmentBuilder, PermissionsBitField } = require("discord.js");
 const { queueNames, requesters } = require("./commands/play");
