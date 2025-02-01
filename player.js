@@ -1,5 +1,5 @@
 {
-  "identifier": "Public Lavalink v4",
+  "name": "Public Lavalink v4",
   "password": "https://dsc.gg/ajidevserver",
   "host": "lava-v4.ajieblogs.eu.org",
   "port": 443,
