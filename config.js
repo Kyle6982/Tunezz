@@ -14,7 +14,7 @@ module.exports = {
   embedTimeout: 5, 
   errorLog: "", 
   nodes: [
-    {
+     {
       name: "Koi Node V4",
       password: "prplmoe.me",
       host: "lavav4.prplmoe.me",
